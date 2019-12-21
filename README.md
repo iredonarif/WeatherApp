@@ -8,4 +8,4 @@ Once the input has been validated by the user, the program displays line by line
 ## Note
 The goal was to learn how to handle http request with nodejs. And to go faster i used a free api online.
 
-This application is inspired on an example of a small project with Nodejs on the youtube channel "LES TEACHERS DU NET"
+This application is inspired by an application creation tutorial with nodejs on the youtube channel "LES TEACHERS DU NET"
